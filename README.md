@@ -1,4 +1,4 @@
-# template-discord-app-bun
+# Discord app template with Nestjs, Typescript and bun
 
 For a lack of a better README.
 
